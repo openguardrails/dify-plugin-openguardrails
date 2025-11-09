@@ -1,11 +1,11 @@
-version: 0.0.2
+version: 0.0.3
 type: plugin
 author: openguardrails
 name: openguardrails
 label:
   en_US: OpenGuardrails - Open Source, Free, Contextual
 description:
-  en_US: Open source and free AI guardrails for contextually protecting against prompt attacks and content safety. 
+  en_US: Open source and free AI guardrails for contextually protecting against prompt attacks, content safety and sensitive data leakage. 
 icon: icon.png
 icon_dark: icon-dark.png
 resource:

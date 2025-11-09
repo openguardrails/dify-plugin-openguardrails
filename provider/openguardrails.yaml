@@ -4,7 +4,7 @@ identity:
   label:
     en_US: "OpenGuardrails - Open Source, Free, Contextual"
   description:
-    en_US: "Open source and free contextual AI guardrails for protecting against prompt attacks and content safety."
+    en_US: "Open source and free contextual AI guardrails for protecting against prompt attacks, content safety and sensitive data leakage."
   icon: "icon.png"
   icon_dark: "icon-dark.png"
 

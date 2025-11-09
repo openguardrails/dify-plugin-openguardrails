@@ -1,14 +1,14 @@
 # OpenGuardrails
 
 **Author:** openguardrails  
-**Version:** 0.0.2
+**Version:** 0.0.3
 **Type:** tool  
 
 ## Description  
 
 ### Overview 
 
-The **OpenGuardrails plugin** provides AI security tools for Dify applications.  
+The **OpenGuardrails plugin** provides AI moderation and security tools for Dify applications.  
 It is **open-source, free, context-aware, and designed for AI application developers**.  
 
 OpenGuardrails focuses on:  
@@ -44,9 +44,9 @@ OpenGuardrails focuses on:
 - Data never leaves your environment (local processing)  
 - Fully supports **private deployment**  
 
-**Open Source Repositories 开源地址**:  
-- Code Repository: [github.com/openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)  
-- Model Repository: [huggingface.co/openguardrails/openguardrails-Text](https://huggingface.co/openguardrails/openguardrails-Text)  
+**Open Source Repositories**: 
+- Code Repository: [github.com/openguardrails/dify-plugin-openguardrails](https://github.com/openguardrails/dify-plugin-openguardrails)  
+- Model Repository: [huggingface.co/openguardrails](https://huggingface.co/openguardrails)  
 
 ### Included Tools
 
@@ -125,8 +125,8 @@ Use OpenGuardrails’ **check_prompt** and **check_response_ctx** tools to prote
 
 For more details, workflows, and best practices, please visit:  
 - [OpenGuardrails Official Website](https://OpenGuardrails.com)  
-- [Code Repository](https://github.com/openguardrails/openguardrails)  
-- [Model Repository](https://huggingface.co/openguardrails/openguardrails-Text)  
+- [Code Repository](https://github.com/openguardrails/dify-plugin-openguardrails)  
+- [Model Repository](https://huggingface.co/openguardrails)  
 
 If you encounter issues, feel free to open an **Issue** on GitHub.  
 For business cooperation, please contact **thomas@OpenGuardrails.com**  
