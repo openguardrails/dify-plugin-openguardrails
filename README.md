@@ -1,7 +1,7 @@
 # OpenGuardrails
 
 **Author:** openguardrails  
-**Version:** 0.0.3
+**Version:** 0.0.4
 **Type:** tool  
 
 ## Description  
@@ -17,7 +17,7 @@ OpenGuardrails focuses on:
 - **Content Safety & Compliance** (based on **Rich risk categories**) 
 - **Sensitive Data Leakage Prevention** PII, Business Secrets
 - **Contextual Semantic Understanding** for precise detection  
-- **thomas Protection** with dual deployment modes:  
+- **Runtime Protection** with dual deployment modes:  
   - **API Detection Mode** – flexible integration and precise control  
   - **Security Gateway Mode** – WAF-like transparent proxy, zero code change   
 
@@ -112,12 +112,13 @@ score:
 To use OpenGuardrails, you need an **API Key**:  
 
 1. Register at the OpenGuardrails Platform: [https://OpenGuardrails.com/platform/](https://OpenGuardrails.com/platform/)  
-2. Log in and go to **Account Management** → Get your API Key  
+2. Log in and go to **Application Management** → Get your API Key for free
+![API Key](_assets/account.png)  
 3. Add the API Key to your Dify plugin configuration  
 
 ## Example Usage
 
-Use OpenGuardrails’ **check_prompt** and **check_response_ctx** tools to protect the input and output of large language models.  
+Use OpenGuardrails’ **OGR Check Prompt** and **OGR Check Response Contextual** tools to protect the input and output of large language models.  
 
 ![workflow](_assets/workflow.png)  
 

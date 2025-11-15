@@ -2,7 +2,7 @@ identity:
   name: "check_prompt"
   author: "openguardrails"
   label:
-    en_US: "OpenGuardrails - Check Prompt"
+    en_US: "OGR Check Prompt"
 description:
   human:
     en_US: "Detect user input for prompt attacks, jailbreaks, malicious operations and content safety issues based on OWASP TOP 10 LLM Applications and GB/T45654-2025 standards"

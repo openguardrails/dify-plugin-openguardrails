@@ -2,7 +2,7 @@ identity:
   name: "check_response_ctx"
   author: "openguardrails"
   label:
-    en_US: "OpenGuardrails - Check Response Contextual"
+    en_US: "OGR Check Response Contextual"
 description:
   human:
     en_US: "Contextually detect AI response data leakage and content safety based on standards"
